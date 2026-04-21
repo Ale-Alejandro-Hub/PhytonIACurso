@@ -1,0 +1,2 @@
+# PhytonIACurso
+Curso Python IA
